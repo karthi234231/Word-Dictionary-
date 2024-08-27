@@ -26,4 +26,4 @@ To run the Word Dictionary application locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/word-dictionary.git
 ## Here’s a preview of the Word Dictionary application
-<img src="https://github.com/user-attachments/assets/word-dictionary-light-mode.png" alt="Word Dictionary Light Mode Screenshot" width="600"/>
+<img src="https://github.com/user-attachments/assets/38e60cb6-d5af-4bee-86a4-451832a576d7"  width="600"/>
